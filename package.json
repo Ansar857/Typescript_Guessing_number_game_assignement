@@ -1,0 +1,18 @@
+{
+  "name": "ansar_guessing",
+  "version": "1.0.0",
+  "description": "this a cli based guessing number game by Ansar on typescript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ansar",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
